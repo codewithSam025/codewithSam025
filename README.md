@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam!
 
-I'm a 12th grade student from India, and currently learning **Frontend Web Development**.  
+I'm a self-taught web developer, currently focused on learning **Frontend Web Development**.  
 I’m building real projects, sharing my journey, and growing step-by-step — one commit at a time!
 
 ---

@@ -26,8 +26,10 @@ I’m building real projects, sharing my journey, and growing step-by-step — o
 
 - [Cheesecake Recipe Page](https://codewithSam025.github.io/cheesecake-recipe/)  
   → My very first HTML project! Built using just HTML to practice content layout.
-- [Travel Agency Page](https://codewithsam025.github.io/travel-agency-page/)
-  → My second project! built using only HTML, this page simulates a real travel agency.
+- [Travel Agency Page](https://your-link.com)  
+  → My second project! Built using only HTML, this page simulates a real travel agency.
+- [Front-End Video Compilation](https://your-link.com)  
+  → A video compilation page embedding YouTube tutorials for HTML, CSS, and JavaScript using `<iframe>`.
 
 
   

@@ -30,6 +30,10 @@ I’m building real projects, sharing my journey, and growing step-by-step — o
   → My second project! Built using only HTML, this page simulates a real travel agency.
 - [Front-End Video Compilation](https://codewithsam025.github.io/video-compilation-page/)  
   → A video compilation page embedding YouTube tutorials for HTML, CSS, and JavaScript using `<iframe>`.
+- [📅 Event Hub Page](https://github.com/codewithsam025/event-hub-page)  
+  → An HTML-only event listing page using semantic elements to showcase upcoming coding and AI events.
+
+
 
 
   

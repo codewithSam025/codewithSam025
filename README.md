@@ -34,6 +34,9 @@ I’m building real projects, sharing my journey, and growing step-by-step — o
   → An HTML-only event listing page using semantic elements to showcase upcoming coding and AI events.
 - [Hotel Feedback Form](https://codewithsam025.github.io/feedback-form-page/)  
   → A user-friendly hotel feedback form built in HTML to collect guest experience details, including personal info and service ratings.
+- [Book Catalogue](https://github.com/codewithsam025/book-catalogue)
+  → A structured book list using HTML tables featuring popular coding books.
+
 
 
 
